@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/college_lms/static/css/main.60d7d2ed.chunk.css",
+    "main.js": "/college_lms/static/js/main.cb2034b7.chunk.js",
+    "main.js.map": "/college_lms/static/js/main.cb2034b7.chunk.js.map",
+    "runtime~main.js": "/college_lms/static/js/runtime~main.b454f3a0.js",
+    "runtime~main.js.map": "/college_lms/static/js/runtime~main.b454f3a0.js.map",
+    "static/js/2.3026cd0f.chunk.js": "/college_lms/static/js/2.3026cd0f.chunk.js",
+    "static/js/2.3026cd0f.chunk.js.map": "/college_lms/static/js/2.3026cd0f.chunk.js.map",
+    "static/js/3.7426b29a.chunk.js": "/college_lms/static/js/3.7426b29a.chunk.js",
+    "static/js/3.7426b29a.chunk.js.map": "/college_lms/static/js/3.7426b29a.chunk.js.map",
+    "index.html": "/college_lms/index.html",
+    "precache-manifest.6f319fc5037f8729e6e54e336cf8c8dd.js": "/college_lms/precache-manifest.6f319fc5037f8729e6e54e336cf8c8dd.js",
+    "service-worker.js": "/college_lms/service-worker.js",
+    "static/css/main.60d7d2ed.chunk.css.map": "/college_lms/static/css/main.60d7d2ed.chunk.css.map"
+  }
+}
