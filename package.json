@@ -1,5 +1,5 @@
 {
-  "homepage": "https://hemanthkumarannam.github.io/college_lms",
+  "homepage": "https://hemanthkumarannam.github.io/college_lms/",
   "name": "college_lms",
   "version": "0.1.0",
   "private": true,
@@ -10,14 +10,14 @@
     "firebase": "^10.13.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^3.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
+    "build": "react-scripts --openssl-legacy-provider build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -40,7 +40,8 @@
     ]
   },
   "devDependencies": {
-    "gh": "^2.8.9",
+    "gh": "^1.17.5",
+    "gh-pages": "^6.1.1",
     "pages": "^0.0.16"
   }
 }
